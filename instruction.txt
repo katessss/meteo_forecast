@@ -1,0 +1,16 @@
+Предварительные требования
+Перед началом убедитесь, что на вашей системе установлено следующее:
+- Python версии 3.9 или выше
+- pip (установщик пакетов Python)
+- Git
+- ОЗУ 2 ГБ
+- Процессор 1-ядерный CPU
+- Операционная система Windows7+ / macOS X+
+- Наличие интернета для установки зависимостей
+
+
+Установка и запуск проекта:
+1. Склонируйте репозиторий: git clone https://git.truetecharena.ru/sistema-xak-tomsk-18/truetecharena1747715571-team-12923/rabochij-prototip-kod-i-dokumentaciya-198.git
+2. Установите все необходимые библиотеки из файла requirements.txt: pip install -r requirements.txt
+3. Перейдите в папку: cd rabochij-prototip-kod-i-dokumentaciya-198
+4. Запустите проект: python service.py
